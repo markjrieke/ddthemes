@@ -1,2 +1,5 @@
-# ddthemes
-What the Package Does (Title Case)
+ddthemes
+================
+
+`ddthemes` provides several color palettes & themes built upon
+`ggplot2`.
